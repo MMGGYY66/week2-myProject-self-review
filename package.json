@@ -1,0 +1,23 @@
+{
+  "name": "mahatir-mohamed-main",
+  "version": "1.0.0",
+  "description": "# My Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMGGYY66/week2-myProject-self-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMGGYY66/week2-myProject-self-review/issues"
+  },
+  "homepage": "https://github.com/MMGGYY66/week2-myProject-self-review#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
